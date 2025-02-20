@@ -8,6 +8,16 @@
   🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
 </div>
 
+---<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=4000&pause=1200&color=007CF0&center=true&vCenter=true&width=700&height=70&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90" />
+</h1>
+
+<div align="center">
+  <strong>🎓 Software Engineering Student at U-tad</strong><br>
+  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker  
+  🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -48,8 +58,8 @@
 ### **Tools I Work With**
 <p align="center">
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /></a>
   <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" /></a>
@@ -64,7 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight" height="150" />
 </div>
-
 
 <h2 align="left">💻 Tech Stack</h2>
 
