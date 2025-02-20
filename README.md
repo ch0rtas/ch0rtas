@@ -61,11 +61,12 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdielFco&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 
+###
 
 <h2 align="left">💻 Tech Stack</h2>
 
@@ -81,13 +82,6 @@
 |---------|---------|-----------|
 | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Keras](https://skillicons.dev/icons?i=keras) |
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdielFco&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdielFco&layout=compact&theme=dracula" height="150" />
 </div>
 
 ###
