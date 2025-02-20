@@ -8,16 +8,6 @@
   🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
 </div>
 
----<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=4000&pause=1200&color=007CF0&center=true&vCenter=true&width=700&height=70&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90" />
-</h1>
-
-<div align="center">
-  <strong>🎓 Software Engineering Student at U-tad</strong><br>
-  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker  
-  🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -33,6 +23,7 @@
 ### **Programming & Scripting**
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://en.cppreference.com/"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></a>
   <a href="https://en.cppreference.com/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
@@ -87,6 +78,6 @@
 
 | 🛠️ **Tools** | 🌌 **Cloud & DevOps** | 🧠 **Machine Learning** |
 |---------|---------|-----------|
-| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) |
+| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
 
 </div>
