@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1200&color=007CF0&width=750&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+at+U-tad+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1200&color=007CF0&center=true&vCenter=true&width=750&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+at+U-tad+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90" />
 </h1>
 
 
