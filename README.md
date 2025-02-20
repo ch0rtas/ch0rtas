@@ -4,7 +4,7 @@
 
 <div align="center">
   <strong>🎓 Software Engineering Student at U-tad</strong><br>
-  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker  
+  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker<br>
   🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
 </div>
 
@@ -29,6 +29,10 @@
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
   <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /></a>
   <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="https://htmx.org/"><img src="https://img.shields.io/badge/-HTMX-0A1128?style=flat-square&logo=htmx&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /></a>
@@ -75,58 +79,61 @@
 <div align="center">
 
 ### 🔧 **Languages**
-[![Python](https://skillicons.dev/icons?i=python&perline=8)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c&perline=8)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp&perline=8)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java&perline=8)](https://skillicons.dev)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin&perline=8)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php&perline=8)](https://skillicons.dev)
-[![C#](https://skillicons.dev/icons?i=cs&perline=8)](https://skillicons.dev)
-[![R](https://skillicons.dev/icons?i=r&perline=8)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
 
 ### 📊 **Databases**
-[![MySQL](https://skillicons.dev/icons?i=mysql&perline=8)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb&perline=8)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=8)](https://skillicons.dev)
-[![SQLite](https://skillicons.dev/icons?i=sqlite&perline=8)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
 ### 🌐 **Web Development**
-[![HTML](https://skillicons.dev/icons?i=html&perline=8)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css&perline=8)](https://skillicons.dev)
-[![HTMX](https://skillicons.dev/icons?i=htmx&perline=8)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=javascript&perline=8)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![HTMX](https://skillicons.dev/icons?i=htmx)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 ### 🛠️ **Tools**
-[![Git](https://skillicons.dev/icons?i=git&perline=8)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github&perline=8)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode&perline=8)](https://skillicons.dev)
-[![IntelliJ](https://skillicons.dev/icons?i=idea&perline=8)](https://skillicons.dev)
-[![Eclipse](https://skillicons.dev/icons?i=eclipse&perline=8)](https://skillicons.dev)
-[![AndroidStudio](https://skillicons.dev/icons?i=androidstudio&perline=8)](https://skillicons.dev)
-[![VisualStudio](https://skillicons.dev/icons?i=visualstudio&perline=8)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
+[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
 ### 🌌 **Cloud & DevOps**
-[![AWS](https://skillicons.dev/icons?i=aws&perline=8)](https://skillicons.dev)
-[![GCP](https://skillicons.dev/icons?i=gcp&perline=8)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&perline=8)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes&perline=8)](https://skillicons.dev)
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare&perline=8)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
 
 ### 🧠 **Machine Learning**
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow&perline=8)](https://skillicons.dev)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
 ### 🧑‍💻 **Operating Systems**
-[![Windows](https://skillicons.dev/icons?i=windows&perline=8)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux&perline=8)](https://skillicons.dev)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&perline=8)](https://skillicons.dev)
-[![Debian](https://skillicons.dev/icons?i=debian&perline=8)](https://skillicons.dev)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+[![Debian](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
 
 ### 🔧 **Shells & Scripts**
-[![Bash](https://skillicons.dev/icons?i=bash&perline=8)](https://skillicons.dev)
-[![PowerShell](https://skillicons.dev/icons?i=powershell&perline=8)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 
 ### 🔒 **Security & Ethical Hacking**
-[![Kali](https://skillicons.dev/icons?i=kali&perline=8)](https://skillicons.dev)
+[![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
 
 </div>
 
