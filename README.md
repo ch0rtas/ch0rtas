@@ -64,3 +64,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=radical" height="150" />
 </div>
+
+
+
+<h2 align="left">💻 Tech Stack</h2>
+
+<div align="center">
+
+| 🔧 **Languages** | 📊 **Databases** | 🌐 **Web Development** |
+|-----------|-----------|----------|
+| ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MariaDB](https://skillicons.dev/icons?i=mariadb) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+
+###  
+
+| 🛠️ **Tools** | 🌌 **Cloud & DevOps** | 🧠 **Machine Learning** |
+|---------|---------|-----------|
+| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Keras](https://skillicons.dev/icons?i=keras) |
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdielFco&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdielFco&layout=compact&theme=dracula" height="150" />
+</div>
+
+###
