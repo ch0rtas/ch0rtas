@@ -40,10 +40,11 @@
 <p align="center">
   <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/-Android%20Studio-00C78A?style=flat-square&logo=android&logoColor=white" /></a>
+  <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /></a>
-  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/-Android%20Studio-00C78A?style=flat-square&logo=android&logoColor=white" /></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
 </p>
 
 ### **Tools I Work With**
@@ -72,12 +73,18 @@
 
 | 🔧 **Languages** | 📊 **Databases** | 🌐 **Web Development** |
 |-----------|-----------|----------|
-| ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![HTMX](https://skillicons.dev/icons?i=htmx) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 
 ###  
 
 | 🛠️ **Tools** | 🌌 **Cloud & DevOps** | 🧠 **Machine Learning** |
 |---------|---------|-----------|
-| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) | ![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
+| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio) ![VisualStudio](https://skillicons.dev/icons?i=visualstudio) | ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
+
+###  
+
+| 🧑‍💻 **Operating Systems** | 🔧 **Shells & Scripts** | 🔒 **Security & Ethical Hacking** |
+|---------------------|-----------------|---------------------|
+| ![Linux](https://skillicons.dev/icons?i=linux) ![Debian](https://skillicons.dev/icons?i=debian) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Kali](https://skillicons.dev/icons?i=kali) |
 
 </div>
