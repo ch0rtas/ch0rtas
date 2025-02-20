@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome!!!+👋+I'm+Manuel+Martínez;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1200&color=007CF0&width=435&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+at+U-tad+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90" />
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=4000&pause=1200&color=007CF0&width=435&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+at+U-tad+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90)](https://git.io/typing-svg)
 </h1>
 
