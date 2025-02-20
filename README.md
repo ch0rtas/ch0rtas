@@ -29,10 +29,11 @@
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
   <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /></a>
   <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /></a>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
 </p>
 
@@ -44,6 +45,7 @@
   <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a>
   <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /></a>
 </p>
 
@@ -67,24 +69,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight" height="150" />
 </div>
 
+
 <h2 align="left">💻 Tech Stack</h2>
 
 <div align="center">
 
 | 🔧 **Languages** | 📊 **Databases** | 🌐 **Web Development** |
 |-----------|-----------|----------|
-| ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![PHP](https://skillicons.dev/icons?i=php) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![HTMX](https://skillicons.dev/icons?i=htmx) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![PHP](https://skillicons.dev/icons?i=php) ![C#](https://skillicons.dev/icons?i=csharp) ![R](https://skillicons.dev/icons?i=r) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![HTMX](https://skillicons.dev/icons?i=htmx) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 
 ###  
 
 | 🛠️ **Tools** | 🌌 **Cloud & DevOps** | 🧠 **Machine Learning** |
 |---------|---------|-----------|
-| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=intellij) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio) ![VisualStudio](https://skillicons.dev/icons?i=visualstudio) | ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
+| ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![IntelliJ](https://skillicons.dev/icons?i=idea) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio) ![VisualStudio](https://skillicons.dev/icons?i=visualstudio) | ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) |
 
 ###  
 
 | 🧑‍💻 **Operating Systems** | 🔧 **Shells & Scripts** | 🔒 **Security & Ethical Hacking** |
 |---------------------|-----------------|---------------------|
-| ![Linux](https://skillicons.dev/icons?i=linux) ![Debian](https://skillicons.dev/icons?i=debian) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Kali](https://skillicons.dev/icons?i=kali) |
+| ![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Debian](https://skillicons.dev/icons?i=debian) | ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Kali](https://skillicons.dev/icons?i=kali) |
 
 </div>
