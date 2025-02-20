@@ -4,59 +4,56 @@
 
 <div align="center">
   <strong>🎓 Software Engineering Student at U-tad</strong><br>
-  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker
-  
-  🌱 Currently exploring advanced algorithms, software design, and AWS cloud projects ⚡️  
-  💡 "Learning is a journey, and there's always more to explore!" 📚🔥  
+  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker  
+  🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-### 🌟 Skills I Have Mastered:
-- **Programming Languages**: Python, C, C++, C#, R, Java, Kotlin, Bash
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases**: SQL (Oracle, MariaDB, MongoDB), AWS (Database-focused)
-- **Machine Learning**: Keras, TensorFlow, PySpark, ANN, Clustering, VAE
-- **Containerization & Automation**: Docker
-
-### 🚀 Skills I'm Currently Exploring:
-- **Algorithm Analysis**: Advanced data structures and problem-solving techniques
-- **Software Design**: Patterns and architectural principles for scalable systems
-- **Cloud Development**: Leveraging AWS for personal projects and distributed systems
-
-### 🌟 My Future Learning Goals:
-- **Cybersecurity Specialization**: Ethical hacking, cryptography, forensic analysis, and network defense
-- **Advanced Tools**: Malware analysis, penetration testing methodologies, and secure software development practices
+- **Passionate about:** Cybersecurity, Ethical Hacking, and Cloud Development  
+- **Currently learning:** Cryptography, Penetration Testing, and Scalable Systems Design  
+- **Favorite motto:** "Learning is a journey, and there's always more to explore!" 📚🔥  
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Skills & Tools
 
-### **Programming Languages**
+### **Programming & Scripting**
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://en.cppreference.com/"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /></a>
+  <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /></a>
+  <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
 </p>
 
-### **Frameworks & Technologies**
+### **Technologies**
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Android%20Studio-00C78A?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/-Android%20Studio-00C78A?style=flat-square&logo=android&logoColor=white" /></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
+</p>
+
+### **Tools I Work With**
+<p align="center">
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /></a>
+  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" /></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
 </p>
 
 ---
@@ -69,12 +66,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ch0rtas&theme=radical&column=4" alt="GitHub Trophies" />
-  </a>
-</div>
