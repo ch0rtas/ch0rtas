@@ -78,7 +78,7 @@
 ## 📬 Contacto
 
 <p align="center">
-  ¡Siempre estoy abierto a nuevas ideas y colaboraciones! No dudes en contactarme si quieres hablar sobre tecnología, ciberseguridad, o proyectos emocionantes. 🚀
+  I’m always open to new ideas and collaborations! Feel free to reach out if you want to talk about technology, cybersecurity, or exciting projects.
 </p>
 
 <p align="center">
