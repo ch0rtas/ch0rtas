@@ -81,13 +81,6 @@
   I’m always open to new ideas and collaborations! Feel free to reach out if you want to talk about technology, cybersecurity, or exciting projects.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/manuel-mart%C3%ADnez-ram%C3%B3n-415711265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manu08martinez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-mart%C3%ADnez-ram%C3%B3n-415711265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
