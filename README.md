@@ -77,11 +77,9 @@
 
 ## 📬 Contacto
 
-🔗 **LinkedIn:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-mart%C3%ADnez-ram%C3%B3n-415711265/){:target="_blank"}
+🔗 **LinkedIn:**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-mart%C3%ADnez-ram%C3%B3n-415711265/)
 
-📧 **Email:**  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:manu08martinez@gmail.com)
+📧 **Email:**  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:manu08martinez@gmail.com)
 
 ---
 
