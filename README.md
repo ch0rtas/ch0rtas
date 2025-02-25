@@ -32,7 +32,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
   <a href="https://htmx.org/"><img src="https://img.shields.io/badge/-HTMX-0A1128?style=flat-square&logo=htmx&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /></a>
@@ -53,18 +52,32 @@
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /></a>
 </p>
 
-### **Tools I Work With**
+---
+
+## 🔥 Featured Project
+
+### 🏗️ **Java Notes & Software Design Course**
+📌 Repository: [IS - Diseño de Software](https://github.com/ch0rtas/IS-Diseno_de_Software)  
+📖 Documentation Language: **Spanish**
+
+🌟 A repository divided into two main sections:
+- **[Java Notes](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/java-notes):**  
+  📘 A comprehensive **Java course for beginners**, covering 15 essential topics to start coding in Java.  
+  🧩 Includes **step-by-step guides** and practical examples.
+
+- **[DiseñoSoftware](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/DisenoSoftware):**  
+  🛠️ A folder for **exercises and projects** related to software design, including assignments and personal practice.
+
+🎯 _If you're new to Java or exploring software design principles, this repository is a perfect resource!_
+
 <p align="center">
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
-  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /></a>
-  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" /></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="https://github.com/ch0rtas/IS-Diseno_de_Software">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
+
 
 ## 📊 My GitHub Stats
 
@@ -81,7 +94,6 @@
   I’m always open to new ideas and collaborations! Feel free to reach out if you want to talk about technology, cybersecurity, or exciting projects.
 </p>
 
-</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-mart%C3%ADnez-ram%C3%B3n-415711265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manu08martinez@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" /></a>
