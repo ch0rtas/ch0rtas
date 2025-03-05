@@ -38,6 +38,10 @@
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/-PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
 </p>
 
 ### **Technologies**
@@ -47,9 +51,12 @@
   <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/-Android%20Studio-00C78A?style=flat-square&logo=android&logoColor=white" /></a>
   <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a>
   <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /></a>
+  <a href="https://www.proxmox.com/"><img src="https://img.shields.io/badge/-Proxmox-000000?style=flat-square&logo=proxmox&logoColor=white" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
   <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" /></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory"><img src="https://img.shields.io/badge/-Active%20Directory-1F5C99?style=flat-square&logo=microsoft&logoColor=white" /></a>
 </p>
 
 ---
