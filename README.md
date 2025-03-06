@@ -5,7 +5,7 @@
 <div align="center">
   <strong>🎓 Software Engineering Student at U-tad</strong><br>
   🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker<br>
-  🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
+  🌱 Exploringf advanced algorithms, software design, and AWS cloud projects  
 </div>
 
 ---
