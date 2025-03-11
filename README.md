@@ -66,6 +66,7 @@
   <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
   <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server"></a>
   <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory"><img src="https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"></a>
+  <a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop"></a>
 </div>
 
 
