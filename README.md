@@ -83,7 +83,7 @@
   📘 A comprehensive **Java course for beginners**, covering 15 essential topics to start coding in Java.  
   🧩 Includes **step-by-step guides** and practical examples.
 
-- **[DiseñoSoftware](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/DisenoSoftware):**  
+- **[DiseñoSoftware](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/DisenoSoftware/src):**  
   🛠️ A folder for **exercises and projects** related to software design, including assignments and personal practice.
 
 🎯 _If you're new to Java or exploring software design principles, this repository is a perfect resource!_
