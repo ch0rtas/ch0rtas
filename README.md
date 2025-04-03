@@ -28,6 +28,7 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <a href="https://htmx.org/"><img src="https://img.shields.io/badge/HTMX-0A1128?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
@@ -52,6 +53,7 @@
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"></a>
   <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
 </div>
 
 ### Technologies & Tools
