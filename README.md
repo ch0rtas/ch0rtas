@@ -29,6 +29,7 @@
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <a href="https://htmx.org/"><img src="https://img.shields.io/badge/HTMX-0A1128?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
@@ -74,18 +75,53 @@
 
 ---
 
-## 🔥 Featured Project
+## 🚀 Featured Projects
 
-### 🏗️ **Java Notes & Software Design Course**
-📌 Repository: [IS - Diseño de Software](https://github.com/ch0rtas/IS-Diseno_de_Software)  
-📖 Documentation Language: **Spanish**
+<details>  
+<summary>🎮 Pixion Android</summary>  
+
+### 📱 Android Movie & Series Information App
+- **Technologies:** Kotlin, Android Studio, Firebase
+- **Features:**
+  - Integration with the **TMDB API** for movie and series data
+  - User authentication and registration using **Firebase**
+  - Displays detailed information about movies, series, seasons, and actors
+  - Modern and user-friendly interface
+  - Users can **add movies, series, and actors to their favorites** for easy access
+  - Optimized for performance and seamless navigation
+
+[View repository](https://github.com/ch0rtas/pixion-android)
+</details>
+
+<details>  
+<summary>🚚 Skyline Logistics</summary>  
+
+### 🎮 Logistics Management Simulator
+- **Technologies:** Java
+- **Features:**
+  - Vehicle fleet management system
+  - Multiple game modes (Career, Free, Challenge)
+  - Detailed economic system
+  - Infrastructure and warehouse management
+  - Implementation of design patterns (Factory, Decorator, Strategy, etc.)
+- **Note:** This project is a **fork** from a collaborative team effort.
+
+[View repository](https://github.com/ch0rtas/skyline-logistics)
+</details>
+
+<details>
+<summary>🏗️ Java Notes & Software Design Course</summary>
+
+### 📚 Educational Repository
+- **Repository:** [IS - Software Design](https://github.com/ch0rtas/IS-Diseno_de_Software)  
+- **Documentation Language:** Spanish
 
 🌟 A repository divided into two main sections:
 - **[Java Notes](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/java-notes):**  
   📘 A comprehensive **Java course for beginners**, covering 15 essential topics to start coding in Java.  
   🧩 Includes **step-by-step guides** and practical examples.
 
-- **[DiseñoSoftware](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/DisenoSoftware/src):**  
+- **[SoftwareDesign](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/DisenoSoftware/src):**  
   🛠️ A folder for **exercises and projects** related to software design, including assignments and personal practice.
 
 🎯 _If you're new to Java or exploring software design principles, this repository is a perfect resource!_
@@ -95,9 +131,23 @@
     <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
+</details>
+
+<details>
+<summary>🧮 CalculatorFT</summary>
+
+### 📱 Cross-Platform Calculator
+- **Technologies:** Flutter, Dart
+- **Features:**
+  - Cross-platform design (Android, iOS, Web)
+  - Intuitive user interface
+  - Advanced mathematical functions
+  - Custom theme support
+
+[View repository](https://github.com/ch0rtas/IS-Desarrollo_de_Aplicaciones_Moviles/tree/main/AndroidStudioProjects/calculatorft)
+</details>
 
 ---
-
 
 ## 📊 My GitHub Stats
 
@@ -111,13 +161,18 @@
 ## 📬 Contact
 
 <p align="center">
-  I’m always open to new ideas and collaborations! Feel free to reach out if you want to talk about technology, cybersecurity, or exciting projects.
+  I'm always open to new ideas and collaborations! Feel free to reach out if you want to talk about technology, cybersecurity, or exciting projects.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-mart%C3%ADnez-ram%C3%B3n-415711265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manu08martinez@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" /></a>
 </p>
+
+
+
+
+
 
 
 
@@ -188,10 +243,6 @@
 
 </div>
 
-
-
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -234,7 +285,8 @@
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-[![Active Directory](https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/active-directory)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/
+identity/active-directory)
 
 ---
 
