@@ -32,6 +32,7 @@
   <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://htmx.org/"><img src="https://img.shields.io/badge/HTMX-0A1128?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
@@ -73,6 +74,8 @@
   <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server"></a>
   <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory"><img src="https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"></a>
   <a href="https://hadoop.apache.org/"><img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop"></a>
+  <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"></a>
+  <a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge" alt="Makefile"></a>
 </div>
 
 
@@ -174,130 +177,10 @@
 
 
 
-
-
-
-
-
-
 <!--
-
-
-<h2 align="left">💻 Tech Stack</h2>
-
-<div align="center">
-
-### 🔧 **Languages**
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![R](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
-[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-
-
-### 📊 **Databases**
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-
-### 🌐 **Web Development**
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![HTMX](https://skillicons.dev/icons?i=htmx)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-
-### 🛠️ **Tools**
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-[![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
-[![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
-[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
-[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-
-### 🌌 **Cloud & DevOps**
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![GCP](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
-
-### 🧠 **Machine Learning**
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
-
-### 🧑‍💻 **Operating Systems**
-[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
-[![Debian](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
-
-### 🔧 **Shells & Scripts**
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-
-### 🔒 **Security & Ethical Hacking**
-[![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Programming &amp; Scripting
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![HTMX](https://img.shields.io/badge/HTMX-0A1128?style=for-the-badge&logo=htmx&logoColor=white)](https://htmx.org/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-
-### Data &amp; Libraries
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
-
-### Technologies &amp; Tools
-[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-00C78A?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-[![Active Directory](https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/
-identity/active-directory)
-
----
-
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch0rtas&radius=16&theme=tokyonight&area=true&order=5" height="250" alt="activity-graph graph" />
 </div>
-
 
 -->
