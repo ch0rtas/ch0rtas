@@ -70,6 +70,13 @@
   <a href="https://www.proxmox.com/"><img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+  <a href="https://docs.npmjs.com/cli/v10/commands/npx"><img src="https://img.shields.io/badge/npx-000000?style=for-the-badge&logo=npm&logoColor=white" alt="npx"></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
   <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></a>
   <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server"></a>
   <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory"><img src="https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"></a>
@@ -77,7 +84,6 @@
   <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"></a>
   <a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge" alt="Makefile"></a>
 </div>
-
 
 ---
 
