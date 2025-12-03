@@ -102,7 +102,11 @@
   - Users can **add movies, series, and actors to their favorites** for easy access
   - Optimized for performance and seamless navigation
 
-[View repository](https://github.com/ch0rtas/pixion-android)
+<p align="center">
+  <a href="https://github.com/ch0rtas/pixion-android">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+  </a>
+ </p>
 </details>
 
 <details>  
@@ -118,7 +122,11 @@
   - Implementation of design patterns (Factory, Decorator, Strategy, etc.)
 - **Note:** This project is a **fork** from a collaborative team effort.
 
-[View repository](https://github.com/ch0rtas/skyline-logistics)
+<p align="center">
+  <a href="https://github.com/ch0rtas/skyline-logistics">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
 </details>
 
 <details>
@@ -145,27 +153,14 @@
 </p>
 </details>
 
-<details>
-<summary>🧮 CalculatorFT</summary>
-
-### 📱 Cross-Platform Calculator
-- **Technologies:** Flutter, Dart
-- **Features:**
-  - Cross-platform design (Android, iOS, Web)
-  - Intuitive user interface
-  - Advanced mathematical functions
-  - Custom theme support
-
-[View repository](https://github.com/ch0rtas/IS-Desarrollo_de_Aplicaciones_Moviles/tree/main/AndroidStudioProjects/calculatorft)
-</details>
 
 ---
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight&cache_seconds=86400" height="150" />
 </div>
 
 ---
