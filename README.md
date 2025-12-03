@@ -133,21 +133,21 @@
 <summary>🏗️ Java Notes & Software Design Course</summary>
 
 ### 📚 Educational Repository
-- **Repository:** [IS - Software Design](https://github.com/ch0rtas/IS-Diseno_de_Software)  
+- **Repository:** [SWE - Software Design](https://github.com/ch0rtas/SWE-Diseno_de_Software)  
 - **Documentation Language:** Spanish
 
 🌟 A repository divided into two main sections:
-- **[Java Notes](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/java-notes):**  
+- **[Java Notes](https://github.com/ch0rtas/SWE-Diseno_de_Software/tree/main/java-notes):**  
   📘 A comprehensive **Java course for beginners**, covering 15 essential topics to start coding in Java.  
   🧩 Includes **step-by-step guides** and practical examples.
 
-- **[SoftwareDesign](https://github.com/ch0rtas/IS-Diseno_de_Software/tree/main/DisenoSoftware/src):**  
+- **[SoftwareDesign](https://github.com/ch0rtas/SWE-Diseno_de_Software/tree/main/DisenoSoftware/src):**  
   🛠️ A folder for **exercises and projects** related to software design, including assignments and personal practice.
 
 🎯 _If you're new to Java or exploring software design principles, this repository is a perfect resource!_
 
 <p align="center">
-  <a href="https://github.com/ch0rtas/IS-Diseno_de_Software">
+  <a href="https://github.com/ch0rtas/SWE-Diseno_de_Software">
     <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -159,8 +159,8 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ch0rtas&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch0rtas&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
