@@ -89,6 +89,25 @@
 
 ## 🚀 Featured Projects
 
+<details>
+<summary>🎵 Spotify Taste Mixer</summary>
+
+### 🎧 Personalized Playlist Generator
+- **Technologies:** Next.js 16, React 19, Spotify Web API
+- **Features:**
+  - **Smart Mix Generation:** Create unique playlists based on artists, genres, decades, and moods.
+  - **Advanced Filters:** Control energy, positivity, danceability, and BPM for specific activities.
+  - **Spotify Integration:** Save created playlists directly to your Spotify account.
+  - **Mix History:** Access and manage your previously generated mixes.
+  - **Data Export:** Export playlist details and history to JSON/CSV.
+
+<p align="center">
+  <a href="https://github.com/ch0rtas/spotify-taste-mixer">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+</details>
+
 <details>  
 <summary>🎮 Pixion Android</summary>  
 
