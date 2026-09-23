@@ -1,24 +1,37 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=4000&pause=1200&color=007CF0&center=true&vCenter=true&width=700&height=70&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Software+Engineering+Student+%F0%9F%8E%93;Passionate+About+Cybersecurity+%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=4000&pause=1200&color=007CF0&center=true&vCenter=true&width=700&height=70&lines=Welcome!+%F0%9F%91%8B+I'm+Manuel+Mart%C3%ADnez;Cybersecurity-Focused+Software+Engineer+%F0%9F%9B%A1%EF%B8%8F;Building+Secure+Software+%F0%9F%94%90" />
 </h1>
 
 <div align="center">
-  <strong>🎓 Software Engineering Student at U-tad</strong><br>
-  🚀 Aspiring Cybersecurity Specialist | 🛡️ Future Ethical Hacker<br>
-  🌱 Exploring advanced algorithms, software design, and AWS cloud projects  
+  <strong>🛡️ Software Engineer with a Specialization in Cybersecurity — U-tad</strong><br>
+  🔐 Focused on Offensive & Defensive Security | 🕵️ Ethical Hacking<br>
+  💻 Software engineering background to build, break and secure systems
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- **Passionate about:** Cybersecurity, Ethical Hacking, and Cloud Development  
-- **Currently learning:** Cryptography, Penetration Testing, and Scalable Systems Design  
+I'm a **Software Engineer** who completed the degree with a **specialization (mención) in Cybersecurity**, and that's where I want to focus my career. My development background helps me understand systems from the inside — how they're built, where they fail, and how to protect them.
+
+- 🎯 **Main focus:** Cybersecurity — Penetration Testing, Ethical Hacking and System Hardening  
+- 🔎 **Interested in:** Network Security, Cryptography, Active Directory security and Secure Software Development  
+- 🐍 **Security scripting:** Python and Bash for automation and tooling  
+- ☁️ **Also into:** Cloud infrastructure (AWS) and virtualization labs (Proxmox)  
 - **Favorite motto:** "Learning is a journey, and there's always more to explore!" 📚🔥  
 
 ---
 
 ## 💻 Tech Stack
+
+### 🛡️ Cybersecurity & Infrastructure
+<div align="center">
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
+  <a href="https://www.proxmox.com/"><img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"></a>
+  <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server"></a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory"><img src="https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"></a>
+</div>
 
 ### Programming & Scripting
 <div align="center">
@@ -76,12 +89,7 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
   <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-  <a href="https://www.kali.org/"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></a>
   <a href="https://www.redhat.com/"><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"></a>
-  <a href="https://www.proxmox.com/"><img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"></a>
-  <a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Server"></a>
-  <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory"><img src="https://img.shields.io/badge/Active_Directory-1F5C99?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"></a>
   <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-00C78A?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio"></a>
   <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
   <a href="https://docs.npmjs.com/cli/v10/commands/npx"><img src="https://img.shields.io/badge/npx-000000?style=for-the-badge&logo=npm&logoColor=white" alt="npx"></a>
